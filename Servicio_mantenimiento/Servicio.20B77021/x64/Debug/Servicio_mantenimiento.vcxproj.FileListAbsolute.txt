@@ -1,0 +1,10 @@
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Servicio_mantenimiento.vcxproj.AssemblyReference.cache
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.Home.resources
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Servicio_mantenimiento.vcxproj.GenerateResource.cache
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.FormRegistro.resources
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.Computadora.resources
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.Empleados.resources
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.Servicio.resources
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.registrar_empleado.resources
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.registrar_producto.resources
+C:\Users\estudiante09\Desktop\Mantenimiento\Servicio_mantenimiento\Servicio.20B77021\x64\Debug\Serviciomantenimiento.registrar_servicio.resources
